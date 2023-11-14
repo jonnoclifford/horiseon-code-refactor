@@ -2,7 +2,7 @@
 
 ## Description
 
-This undertaking involves restructuring the code for the Horiseon website homepage. The primary objectives of this refactoring are to enhance the efficiency, clarity, and accessibility of the existing code. Additionally, the refactoring aims to optimize search engine performance. It's important to note that these modifications do not alter the visual styling of the page; rather, they focus solely on improving the underlying code.
+This task involved restructuring the provided code for the Horiseon website homepage. The primary objectives of this refactoring were to enhance the efficiency, clarity, and accessibility of the existing code. Additionally, the refactoring aims to optimize search engine performance (optimisation). It's important to note that these modifications do not alter the visual styling of the page; rather, they focus solely on improving the underlying code.
 
 ### Tasks completed
 
