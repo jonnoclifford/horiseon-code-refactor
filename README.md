@@ -27,7 +27,7 @@ No installation required - index.html, style.css and this README pushed to Githu
 
 Open website at [https://jonnoclifford.github.io/horiseon-code-refactor/](https://jonnoclifford.github.io/horiseon-code-refactor/)
 
-![alt text](assets/images/screenshot.png)
+![screenshot of Horiseon website](assets/images/screenshot.png)
 
 ## Credits
 
